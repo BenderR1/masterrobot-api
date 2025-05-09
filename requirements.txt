@@ -1,0 +1,9 @@
+Flask
+python-dotenv
+gunicorn
+structlog
+PyJWT # For authentication tokens
+Werkzeug # For password hashing (Flask dependency)
+# Add LLM SDKs if not already present globally
+openai
+google-genai
